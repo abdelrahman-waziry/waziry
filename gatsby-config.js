@@ -36,12 +36,12 @@ module.exports = {
       {
         name: 'DigitalYard',
         description: 'Front-end Developer, December 2018 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://digitalyard.com',
       },
       {
         name: 'Twigano',
         description: 'Full-Stack Developer, November 2017 - December 2018',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://twigano.com/',
       },
       {
         name: 'National Company for roads',
@@ -54,7 +54,7 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Node.js, Express.js, React, PHP',
+          'HTML, CSS, Sass, JavaScript (ES6+), Node.js, React, Vuejs, PHP',
       },
       {
         name: 'Databases',

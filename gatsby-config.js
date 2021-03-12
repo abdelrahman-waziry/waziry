@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/abdelrahmanmohsen/`,
     // Content of the About Me section
-    about: `Experienced Full Stack developer with a demonstrated history of working in the web industry. Skilled in Web development & Mobile development`,
+    about: `Experienced Front-end developer with a demonstrated history of working in the web industry. Skilled in Web development & Mobile development`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -46,6 +46,7 @@ module.exports = {
       {
         name: 'National Company for roads',
         description: 'Full-Stack Developer, December 2016 - November 2017',
+        link: '',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
